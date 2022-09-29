@@ -13,6 +13,12 @@
     particular project, we re going to only deal with the resumes of PDF type.
 * Project Architecture and Brief overview of the Packages and the installation
 * Basics of Regular Expression in Python
+    - re.match
+    - re.search()
+    - re.findall()
+    - re.split()
+    - re.sub()
+    - re.compile()
 * Basic Overview of Spacy functions
 * Extracting Relevant information
 * Completing the script to make it an one-click command-level tool
